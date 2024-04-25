@@ -22,7 +22,6 @@
     "release": "grabthar-release",
     "release:dry-run": "DRY_RUN=true grabthar-release",
     "postrelease": "npm run cdnify -- --commitonly",
-    "prepare": "husky install",
     "flatten": "grabthar-flatten",
     "prepublishOnly": "npm run validate-components-for-publish",
     "cdn-check": "babel-node ./scripts/sdk-logos-cdn-check.js"
