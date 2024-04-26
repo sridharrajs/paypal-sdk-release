@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "@paypal/googlepay-components": "1.2.3",
-    "@paypal/applepay-components": "https://github.com/sridharrajs/paypal-applepay-components.git#apay",
+    "@paypal/applepay-components": "https://github.com/sridharrajs/paypal-applepay-components.git",
     "@paypal/card-components": "1.0.56",
     "@paypal/checkout-components": "5.0.309",
     "@paypal/common-components": "1.0.45",
